@@ -1,0 +1,41 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.borders{
+border:1px solid red:;
+
+}
+#navbar2{
+  float:right;
+
+}
+#navbar1{
+  float :left;
+}
+.login{
+  float:right;
+}
+.buttons{
+float:right;
+
+}
+
+.icon{
+	padding-top:0px;
+}
+.jumbotron{
+height:400px;
+padding-top:170px;
+}
+
+.contributor{
+background-color:black;
+border:1px solid black;
+}
+
+.sideBarContainer{
+border-left: 1px solid black;
+
+}
